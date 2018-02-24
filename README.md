@@ -26,8 +26,13 @@ Este es otro texto. Ejemplo de codigo en python
      for n in range (10)
      print (0) 
 
-## Seccion 3
+## Sección 3
 
 Haga click aquí [aqui](https://www.google.com.co/) para ir a google.
 
 Este es otro texto mas
+
+## Sección 4
+
+Este texto debería aparece en master
+* Este es el item 1 
